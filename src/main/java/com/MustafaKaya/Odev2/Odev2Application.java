@@ -2,7 +2,6 @@ package com.MustafaKaya.Odev2;
 
 import com.MustafaKaya.Entities.Professor;
 import com.MustafaKaya.Entities.Rector;
-import com.MustafaKaya.Entities.Staff;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
